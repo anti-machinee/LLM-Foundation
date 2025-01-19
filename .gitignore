@@ -1,0 +1,17 @@
+# private
+
+# generic
+opensources
+tmp
+
+# vscode
+.vscode
+
+# docs
+*.pdf
+
+# compile
+__pycache__
+
+# files
+*.log
